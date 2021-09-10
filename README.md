@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @WASDpython
-- 🌱 I’m currently learning python programming language.
 
 <!---
 WASDpython/WASDpython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
